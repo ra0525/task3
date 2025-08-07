@@ -19,7 +19,7 @@ To design a visually compelling and interactive dashboard that:
 
 ## 📁 Dataset
 
-The dataset used is `sales_data_sample.csv` and includes:
+The dataset used is [`sales_data_sample.csv`](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?utm_source=chatgpt.com) and includes:
 - Order Date
 - Sales Amount
 - Product Line
